@@ -16,6 +16,10 @@ html {
   background: #000;
 }
 
+.logo {
+  width: 80%;
+}
+
 body {
   -moz-osx-font-smoothing: grayscale;
   -webkit-align-items: center;

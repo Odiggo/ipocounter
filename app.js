@@ -1,6 +1,6 @@
 (function () {
   // This date string should be parseable by Date.parse()
-  var DEMO_DAY_DATE = "Jan 15, 2024";
+  var DEMO_DAY_DATE = "April 18, 2028";
 
   var $ = document.getElementById.bind(document);
   var $$ = document.querySelectorAll.bind(document);
